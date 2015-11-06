@@ -4,6 +4,7 @@ package Package01;
  * some thing new
  * 417753294@qq.com
  * lyh
+ * ÐÂ¶«Î÷
  */
 import javax.swing.JFrame;
 import javax.swing.JPanel;
